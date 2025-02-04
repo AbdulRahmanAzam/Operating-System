@@ -46,6 +46,17 @@ extract a RAR archive
 list content of RAR archive
 
 
+# SCREEN SHOTS
+![image](https://github.com/user-attachments/assets/c1769945-178a-437b-bd9f-f60fa6bc1fcb)
+
+
+![image](https://github.com/user-attachments/assets/d1223d5b-2e8b-4921-a5c7-d82a2a050b15)
+
+
+![image](https://github.com/user-attachments/assets/dd371bed-69b7-4ff3-b444-0cb441940793)
+
+
+
 
 
 
