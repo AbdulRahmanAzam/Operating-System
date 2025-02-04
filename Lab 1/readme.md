@@ -53,7 +53,14 @@ list content of RAR archive
 ![image](https://github.com/user-attachments/assets/d1223d5b-2e8b-4921-a5c7-d82a2a050b15)
 
 
-![image](https://github.com/user-attachments/assets/dd371bed-69b7-4ff3-b444-0cb441940793)
+![image](https://github.com/user-attachments/assets/a874219e-06c3-48da-a5d5-f8b5cc42f525)
+
+
+![image](https://github.com/user-attachments/assets/a64eb8d1-d43c-43ed-8bef-7c9f1e043ac8)
+
+
+![image](https://github.com/user-attachments/assets/f5b9f951-933f-4308-b7ad-8557fafe656b)
+
 
 
 
