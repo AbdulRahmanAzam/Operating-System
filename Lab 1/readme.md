@@ -1,10 +1,19 @@
 Contents:
-[Task 1](#Task1)
 
-[Task 2](#Task2)
+# In Lab Tasks:
+[Task 1](#InTask1)
+
+[Task 2](#InTask2)
+
+# Post Lab Tasks:
+[Task 1](#postTask1)
+
+[Task 2](#postTask2)
+
+[Task 3](#postTask3)
 
 
-# Task1
+# InTask1
 ## apt-get -> Advanced Package Tool
 
 it is a command line interface for retrieval of packages and information about them from authenticated sources and for installation, upgrade and removal of packages together with their dependencies
@@ -72,8 +81,15 @@ list content of RAR archive
 
 # Task2
 
+![image](https://github.com/user-attachments/assets/831b1497-3ff7-4e42-ae06-4e3f9ad02f23)
 
 
+![image](https://github.com/user-attachments/assets/4667f316-1fe8-4a75-ac4d-77014dd79c96)
 
 
+![image](https://github.com/user-attachments/assets/b8dc301e-a8e7-4ed7-8ca9-ec202bb27c0a)
+
+
+# POST LAB TASKS
+## PostTask1
 
