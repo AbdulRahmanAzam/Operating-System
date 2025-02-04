@@ -1,9 +1,9 @@
 Contents:
-[Task 1](#Task_1)
-[Task 2](#Task_2)
+[Task 1](#Task1)
+[Task 2](#Task2)
 
 
-# Task 1
+# Task1
 ## apt-get -> Advanced Package Tool
 
 it is a command line interface for retrieval of packages and information about them from authenticated sources and for installation, upgrade and removal of packages together with their dependencies
@@ -69,7 +69,7 @@ list content of RAR archive
 
 
 
-# Task 2
+# Task2
 
 
 
