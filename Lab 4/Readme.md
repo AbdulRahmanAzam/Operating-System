@@ -9,11 +9,13 @@ OUTPUTS
 
 
 # Q3
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/e0c4fe64-79d8-4bda-a177-156e9a1f4e99)
 
 
 
 # Q4
+![image](https://github.com/user-attachments/assets/ffbbbd0f-31ca-4431-bdd6-dae48a3a0737)
+
 
 
 
