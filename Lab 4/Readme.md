@@ -6,3 +6,25 @@ OUTPUTS
 
 # Q2
 ![image](https://github.com/user-attachments/assets/a498730e-d498-4ced-b9ff-09cf718eb030)
+
+
+# Q3
+![Uploading image.png…]()
+
+
+
+# Q4
+
+
+
+# Q5
+
+
+
+# Q6
+
+
+
+
+# Q7
+
