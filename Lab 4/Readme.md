@@ -25,6 +25,7 @@ OUTPUTS
 
 
 # Q6
+![image](https://github.com/user-attachments/assets/5976c9b6-6a6f-4a95-b116-41c3b50c5144)
 
 
 
