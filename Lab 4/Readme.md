@@ -31,4 +31,5 @@ OUTPUTS
 
 
 # Q7
+![image](https://github.com/user-attachments/assets/6cee4a98-bf8c-494f-86c0-a12e3a101b81)
 
