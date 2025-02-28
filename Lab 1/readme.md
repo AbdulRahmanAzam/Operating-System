@@ -1,3 +1,13 @@
+✅ Use [ ] for basic comparisons
+✅ Use [[ ]] when dealing with string patterns or &&,||
+✅ Use (( )) for arithmetic
+✅ Use {} for multiple commands, variable without a subshell
+✅ Use () when you need a new subshell
+
+
+
+
+
 Contents:
 
 # In Lab Tasks:
