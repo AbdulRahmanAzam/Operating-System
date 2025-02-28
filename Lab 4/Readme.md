@@ -20,6 +20,7 @@ OUTPUTS
 
 
 # Q5
+![image](https://github.com/user-attachments/assets/65444ad3-5acb-498b-896c-312451d0538e)
 
 
 
