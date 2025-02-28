@@ -9,7 +9,7 @@ OUTPUTS
 
 
 # Q3
-![image](https://github.com/user-attachments/assets/e0c4fe64-79d8-4bda-a177-156e9a1f4e99)
+![image](https://github.com/user-attachments/assets/9c9e7fbd-8f7e-4b6f-a3cc-73d7479f89ee)
 
 
 
