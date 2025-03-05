@@ -1,3 +1,7 @@
+[OS Revision Lab Tasks.docx](https://github.com/user-attachments/files/19083553/OS.Revision.Lab.Tasks.docx)
+
+
+
 ![image](https://github.com/user-attachments/assets/58e2a681-ce18-41a6-bcc0-efae4f4e793d)
 
 
